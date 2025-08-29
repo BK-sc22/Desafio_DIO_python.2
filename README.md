@@ -16,7 +16,7 @@
 
 ## *Deve ser criada funções para todas as operações do sistema.
 
-            *SAQUE
-        - a função saque deve receber os argumentos apenas por nome (Keyword only). 
-        - Sugestão de argumentos: saldo, valor, extrato, limite, numero_saques, limite_saques. 
-        - Sugestão de retorno: saldo e extrato.
+### SAQUE
+#### A função saque deve receber os argumentos apenas por nome (Keyword only). 
+#### Sugestão de argumentos: saldo, valor, extrato, limite, numero_saques, limite_saques. 
+#### Sugestão de retorno: saldo e extrato.
