@@ -2,11 +2,10 @@
 # Desafio_DIO_python
     🛣️  Trilha Python
 
-## Desafio: criando um sistema bancário com Python
+## Desafio: Otimizando o Sistema Bancário com Funções Python
 
 ## 🎯Objetivo:
 
-### -Otimizando o Sistema Bancário com Funções Python:
     • Separar as funções existentes de saque, depósito e extrato em funções.
     • Criar duas funções: cadastrar usuário (cliente) e cadastrar conta bancária.
     
@@ -16,3 +15,8 @@
 #### • criar duas funções: usuário (cliente do banco) e conta corrente (vincular com usuário)
 
 ## *Deve ser criada funções para todas as operações do sistema.
+
+            *SAQUE
+        - a função saque deve receber os argumentos apenas por nome (Keyword only). 
+        - Sugestão de argumentos: saldo, valor, extrato, limite, numero_saques, limite_saques. 
+        - Sugestão de retorno: saldo e extrato.
